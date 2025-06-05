@@ -36,9 +36,9 @@ Visualize original, noisy, and denoised outputs for a qualitative understanding.
 
 ## PROGRAM
 
-### Name: JWALAMUKHI S
+### Name: PRIYAADARSHINI K
 
-### Register Number: 212223040079
+### Register Number: 212223240126
 
 ```
 class DenoisingAutoencoder(nn.Module):
